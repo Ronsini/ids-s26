@@ -1,5 +1,6 @@
 # Various topics
 
+
 ## K-Means Clustering
 
 {{< include _kmeans.qmd >}} 
@@ -15,3 +16,7 @@
 ## Data Manipulation with Pandas
 
 {{< include _pandas.qmd >}}
+
+## Web Scraping
+
+{{< include _webscraping.qmd >}}
