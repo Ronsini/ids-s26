@@ -3,3 +3,5 @@
 {{< include _kmeans.qmd >}} 
 
 {{< include _ImportExportData.qmd >}} 
+
+{{< include _pandas.qmd >}} 
